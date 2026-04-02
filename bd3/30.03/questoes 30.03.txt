@@ -1,0 +1,21 @@
+Questão 1: 
+Quais são os clientes localizados na cidade Niterói?
+
+
+
+Questão 2:
+AND - CONJUNÇÃO
+OR  - DISJUNÇÃO
+NOT - NEGAÇÃO
+
+Qauis são os produtos que tem unidade igual a 'kg' e valor unitário maior do que r$ 2,00?
+
+Questão 3:
+
+liste todos os clientes localizados na cidade de são Paulo ou que tenham CEP entre 20000005 e 20000010 
+
+Questão 4:   
+
+a prioridade do operador AND é maior do que a prioridade do operador OR, logo nesse exemplo, a utilização dos parênteses é opcional
+
+mostrar todos os pedidos que não tenham prazo de entrega superior a 15 dias 

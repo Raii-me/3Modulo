@@ -1,0 +1,71 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(156, 103, 33);
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.topo{
+    height: 50px;
+    background-color: black;
+}
+
+.interior{
+    width: 80%;
+    margin: auto;
+    background-color:aquamarine;
+}
+
+.logomarca{
+    float: left;
+    font-size: 24px;
+    line-height: 50px;
+}
+
+.menu{
+    float: right;
+}
+
+.menu, ul, li{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+li{
+    float: right;
+    padding-left: 10px;
+    padding-right: 10px;
+    line-height: 50px;
+    font-size: 14px;
+}
+
+.banner{
+    height: 300px;
+    background-color: #d1b2b2;
+}
+
+.banner-direita{
+    float: right;
+    padding-top: 5%;
+}
+
+.frase1{
+    padding-top: 30px;
+    font-size: 48px;
+   
+}
+
+
+.banner-interior{
+    width: 80%;
+    margin: auto;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
